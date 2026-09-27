@@ -1,0 +1,25 @@
+.heading {
+    /* color: blue; */
+}
+
+.list {
+    margin: 15px;
+    width: 200px;
+    align-items: center;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    box-shadow: 5px 5px 5px 0px grey;
+
+
+}
+
+.item {
+    color: rgb(230, 71, 3);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
